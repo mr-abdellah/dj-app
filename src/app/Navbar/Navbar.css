@@ -1,0 +1,16 @@
+.Navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Navbar nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.Navbar nav a {
+  text-decoration: none;
+}
